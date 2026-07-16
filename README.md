@@ -46,8 +46,8 @@ awake, and automatically reconnects if it gets kicked or disconnects.
 
    | Variable                | Default                           | Description                                 |
    | ----------------------- | --------------------------------- | ------------------------------------------- |
-   | `SERVER_HOST`           | `DOOMS_DAY_REBORN.aternos.me`     | Aternos server hostname.                    |
-   | `SERVER_PORT`           | `59173`                           | Aternos server port.                        |
+   | `SERVER_HOST`           | `Allctgyt.aternos.me`             | Aternos server hostname.                    |
+   | `SERVER_PORT`           | `37101`                           | Aternos server port.                        |
    | `BOT_USERNAME`          | `247_Monitor`                     | In-game username for the bot.               |
    | `MC_VERSION`            | auto-detect                       | Minecraft version, e.g. `1.20.1`.           |
    | `RECONNECT_INTERVAL_MS` | `40000`                           | Wait time before reconnecting after kicks.  |
